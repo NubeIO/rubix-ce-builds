@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [v0.1.3](https://github.com/NubeIO/rubix-ce/tree/v0.1.3) (2023-10-12)
+
+- Added ROS nodes in wires, and made it so remote flow-networks will work
+- Added copy to clipboard for networks/devices/points
+- let user select version on upgrade app
+- misc bug fixes
+
 ## [v0.1.0](https://github.com/NubeIO/rubix-ce/tree/v0.1.0) (2023-10-12)
 
 - First release
