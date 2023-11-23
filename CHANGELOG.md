@@ -1,12 +1,22 @@
 # CHANGELOG
 
-## [v0.1.4](https://github.com/NubeIO/rubix-ce/tree/v0.1.4) (2023-10-21)
+## [v0.1.5](https://github.com/NubeIO/rubix-ce/tree/v0.1.5) (2023-11-23)
+
+- Upgrade nubeio-rubix-lib-models-go & misc changes
+- Added template page
+- Refactored RQL editor layout code
+- Use Nube logo as the fallback image
+- Misc bug fixes
+- Prerequisite:
+    - rubix-os >= v0.1.0
+
+## [v0.1.4](https://github.com/NubeIO/rubix-ce/tree/v0.1.4) (2023-11-21)
 
 - Fixed flow net & BACnet node input link issue
 - Prerequisite:
     - rubix-os >= v0.0.90
 
-## [v0.1.3](https://github.com/NubeIO/rubix-ce/tree/v0.1.3) (2023-10-20)
+## [v0.1.3](https://github.com/NubeIO/rubix-ce/tree/v0.1.3) (2023-11-20)
 
 - Added ROS nodes in wires & made it so remote flow-networks will work
 - Added copy to clipboard for networks/devices/points
