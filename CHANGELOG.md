@@ -1,5 +1,11 @@
 # CHANGELOG
 
+
+## [v0.2.1](https://github.com/NubeIO/rubix-ce/tree/v0.2.1) (2023-12-06)
+
+- Redo bacnet points discovery
+- Fix crash on bulk update
+
 ## [v0.2.0](https://github.com/NubeIO/rubix-ce/tree/v0.2.0) (2023-12-05)
 
 - Support API endpoint changes
