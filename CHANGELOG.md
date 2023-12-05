@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [v0.2.0](https://github.com/NubeIO/rubix-ce/tree/v0.2.0) (2023-12-05)
+
+- Support API endpoint changes
+- Improvement on the RQL editor layout
+- Added template page
+- Resize sidebar width by dragging
+- Optimise table load time
+- Updated Network, Device, & Points table context menu
+- Give bulk action feature in location & group level
+- Updated transaction & BACnet point discovery modal
+- Prerequisite:
+  - rubix-os >= v0.2.0
+
 ## [v0.1.5](https://github.com/NubeIO/rubix-ce/tree/v0.1.5) (2023-11-23)
 
 - Upgrade nubeio-rubix-lib-models-go & misc changes
