@@ -1,5 +1,24 @@
 # CHANGELOG
 
+## [v0.3.1-beta.1](https://github.com/NubeIO/rubix-ce/tree/v0.3.1-beta.3) (2023-12-14/yet to release)
+
+- fix bacnet object #1625
+- col rearrange bug fix and removed unused code #1627
+- added api for write pri null #1629
+- Priority array individual write v1 #1631
+- Update readme for private repo dependencies download #1632
+- Upgrade/module migration #1638
+- Step connection style in wires v1 #1639
+- fixed csv bulk update bug #1640
+
+## [v0.3.0](https://github.com/NubeIO/rubix-ce/tree/v0.3.0) (2023-12-09/yet to release)
+
+- Support model movement change
+- Upgrade ROS and its dependencies
+- Support module schema API change
+- Support module-core-rql API changes
+- Prerequisite:
+    - rubix-os >= v0.3.0-rc1
 
 ## [v0.2.1](https://github.com/NubeIO/rubix-ce/tree/v0.2.1) (2023-12-06)
 
@@ -17,7 +36,7 @@
 - Give bulk action feature in location & group level
 - Updated transaction & BACnet point discovery modal
 - Prerequisite:
-  - rubix-os >= v0.2.0
+    - rubix-os >= v0.2.0
 
 ## [v0.1.5](https://github.com/NubeIO/rubix-ce/tree/v0.1.5) (2023-11-23)
 
