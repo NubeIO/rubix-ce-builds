@@ -1,24 +1,37 @@
 # CHANGELOG
 
-## [v0.3.1-beta.1](https://github.com/NubeIO/rubix-ce/tree/v0.3.1-beta.3) (2023-12-14/yet to release)
-
-- fix bacnet object #1625
-- col rearrange bug fix and removed unused code #1627
-- added api for write pri null #1629
-- Priority array individual write v1 #1631
-- Update readme for private repo dependencies download #1632
-- Upgrade/module migration #1638
-- Step connection style in wires v1 #1639
-- fixed csv bulk update bug #1640
-
-## [v0.3.0](https://github.com/NubeIO/rubix-ce/tree/v0.3.0) (2023-12-09/yet to release)
+## [v0.3.0](https://github.com/NubeIO/rubix-ce/tree/v0.3.0) (2023-01-17)
 
 - Support model movement change
 - Upgrade ROS and its dependencies
 - Support module schema API change
 - Support module-core-rql API changes
+- Add navigate menu feature
+- Add focused mode feature
+- Fix bacnet object #1625
+- Column rearrange bug fix & removed unused code #1627
+- Added API for write priority null #1629
+- Priority array individual write v1 #1631
+- Update readme for private repo dependencies download #1632
+- Upgrade/module migration #1638
+- Step connection style in wires v1 #1639
+- Fixed CSV bulk update bug #1640
+- Fix on supervisor switch view hides is not working in focused mode (#1655)
+- Upgrade models & ROS versions (#1657)
+- Supervisor menu column right click actions (#1656)
+- Make dto and datatype changes (#1659)
+- Sidebar menu items right clicks (#1658)
+- Fix sidebar views are not refreshing (#1662)
+- Correct locations/groups/hosts click context (#1663)
+- Update sidebar menu items styling (#1665)
+- Fix issue with creating subsequent hosts with default values (#1671)
+- Added option to enable live mode for widget preview (#1670)
+- Enable/Disable supervisor from the sidebar (#1667)
+- Add additional context menu items of supervisors in sidebar menu (#1675)
+- Make modules work same as plugins (#1679)
+- Skip system plugin upload (#1683)
 - Prerequisite:
-    - rubix-os >= v0.3.0-rc1
+  - rubix-os >= v0.3.0
 
 ## [v0.2.1](https://github.com/NubeIO/rubix-ce/tree/v0.2.1) (2023-12-06)
 
