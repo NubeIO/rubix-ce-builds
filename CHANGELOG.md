@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [v0.3.1](https://github.com/NubeIO/rubix-ce/tree/v0.3.1) (2023-01-23)
+
+- Fix: BACnet read API call (#1691)
+- Fix UI overflowing (#1689)
+- Refactoring sidebar supervisor menu and its refresh state logic (#1688)
+- Fix schedules issues and improvements (#1690)
+- Add support for text bases status on Widget Lock (#1692)
+
 ## [v0.3.0](https://github.com/NubeIO/rubix-ce/tree/v0.3.0) (2023-01-17)
 
 - Support model movement change
