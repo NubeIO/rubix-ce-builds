@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [v0.3.2](https://github.com/NubeIO/rubix-ce/tree/v0.3.2) (2023-01-30)
+
+- Merge pull request #1677 from NubeIO/virtualise-mass-edit-table-v1
+- Merge pull request #1664 from NubeIO/batch-editor-update-v1
+- Fix: windows icon on build (#1695)
+- Merge pull request #1696 from NubeIO/JSON-import-styling-update-v1
+- Fix: temp fix to show configure OpenVPN (#1700)
+
 ## [v0.3.1](https://github.com/NubeIO/rubix-ce/tree/v0.3.1) (2023-01-23)
 
 - Fix: BACnet read API call (#1691)
