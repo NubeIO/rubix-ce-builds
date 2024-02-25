@@ -1,6 +1,27 @@
 # CHANGELOG
 
-## [v0.3.2](https://github.com/NubeIO/rubix-ce/tree/v0.3.2) (2023-01-30)
+## [v0.3.3](https://github.com/NubeIO/rubix-ce/tree/v0.3.3) (2024-02-26)
+
+- Merge pull request #1699 from NubeIO/table-refresh-fix-v1
+- Add validation on EdgeBiosRubixOsOnEdgeInstall (#1704)
+- Add type to RubixConnection and improvements on supervisor type (#1714)
+- Merge pull request #1708 from NubeIO/improvement/get-repo-versions
+- Fix: delete database for rubix-edge-wires (#1711)
+- Merge pull request #1716 from NubeIO/1641-right-click-menu-off-bottom-of-screen
+- Remove cleaning of entity name before dispatching it to server (#1720)
+- Merge pull request #1710 from NubeIO/wires-drag-selection-fix-v1
+- updated network wizard to work with modules (#1717)
+- Merge pull request #1687 from NubeIO/update-node-settings-v1
+- Import mismatch fix v1 (#1723)
+- Fix: ros installation on edge ros is in stopped condition (#1729)
+- Fix select version not working on Install Rubix OS (#1724)
+- Fix ros restart timeout issues (#1730)
+- Backup import error fix v1 (#1727)
+- Commented network log tab (#1731)
+- Hide tabs (#1744)
+- Display points values as per the point's decimal value (#1745)
+
+## [v0.3.2](https://github.com/NubeIO/rubix-ce/tree/v0.3.2) (2024-01-30)
 
 - Merge pull request #1677 from NubeIO/virtualise-mass-edit-table-v1
 - Merge pull request #1664 from NubeIO/batch-editor-update-v1
@@ -8,7 +29,7 @@
 - Merge pull request #1696 from NubeIO/JSON-import-styling-update-v1
 - Fix: temp fix to show configure OpenVPN (#1700)
 
-## [v0.3.1](https://github.com/NubeIO/rubix-ce/tree/v0.3.1) (2023-01-23)
+## [v0.3.1](https://github.com/NubeIO/rubix-ce/tree/v0.3.1) (2024-01-23)
 
 - Fix: BACnet read API call (#1691)
 - Fix UI overflowing (#1689)
@@ -16,7 +37,7 @@
 - Fix schedules issues and improvements (#1690)
 - Add support for text bases status on Widget Lock (#1692)
 
-## [v0.3.0](https://github.com/NubeIO/rubix-ce/tree/v0.3.0) (2023-01-17)
+## [v0.3.0](https://github.com/NubeIO/rubix-ce/tree/v0.3.0) (2024-01-17)
 
 - Support model movement change
 - Upgrade ROS and its dependencies
