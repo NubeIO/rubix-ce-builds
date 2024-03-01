@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [v1.0.0-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.1) (2024-03-01)
+
+- Templates update v1 (#1733)
+- Add --server flag (#1732)
+- Remove BACnet device discover duplicates (#1749)
+- History quick time select v1 (#1750)
+- Naming update v1 (#1748)
+- Hide plugin page for none admin users (#1738)
+- Add minimum rubix-os version support (#1741)
+- Fix: dark mode context menu styling issue (#1756)
+- Virtualized mapping tables (#1751)
+- Updated bacnetmaster module name (#1759)
+
 ## [v0.3.3](https://github.com/NubeIO/rubix-ce/tree/v0.3.3) (2024-02-26)
 
 - Merge pull request #1699 from NubeIO/table-refresh-fix-v1
