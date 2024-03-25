@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [v1.0.0-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.3) (2024-03-25)
+
+- Fix: correct error message for ROS not installed scenario (#1773)
+- Fix link builder v1 (#1775)
+- Fix: template network install when there are no lorawan network present (#1769)
+
+## [v1.0.0-rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.2) (2024-03-12)
+
+- Add CC & BCC in email (#1763)
+- Fix: module install from windows (#1765)
+
 ## [v1.0.0-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.1) (2024-03-01)
 
 - Templates update v1 (#1733)
@@ -81,7 +92,7 @@
 - Make modules work same as plugins (#1679)
 - Skip system plugin upload (#1683)
 - Prerequisite:
-  - rubix-os >= v0.3.0
+    - rubix-os >= v0.3.0
 
 ## [v0.2.1](https://github.com/NubeIO/rubix-ce/tree/v0.2.1) (2023-12-06)
 
