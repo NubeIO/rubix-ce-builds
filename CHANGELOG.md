@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [v1.0.0-rc.4](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.4) (2024-04-03)
+
+- Remove ROS dependencies (#1782)
+- Wires folder node issue v1 (#1781)
+- Add disable_periodic_rewrite node schema for flow point (#1785)
+
 ## [v1.0.0-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.3) (2024-03-25)
 
 - Fix: correct error message for ROS not installed scenario (#1773)
