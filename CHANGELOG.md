@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [v1.0.0-rc.5](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.5) (2024-04-17)
+
+- Add additional modules fields (#1795)
+- Improvements/libraries (#1798)
+- Bug/template restart check fix v2 (#1799)
+- Updated lora icons (#1802)
+- Updated alerts table tag function (#1811)
+- Fix/hide maps v1 (#1803)
+- Fixed mass edit table related row delete issues (#1800)
+- Improvements on timezone (#1783)
+- Support timezone typo change
+
 ## [v1.0.0-rc.4](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.4) (2024-04-03)
 
 - Remove ROS dependencies (#1782)
