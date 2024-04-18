@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.0.0-rc.6](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.6) (2024-04-18)
+
+- Fix: cleanup plugins in download directory (#1818)
+
 ## [v1.0.0-rc.5](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.5) (2024-04-17)
 
 - Add additional modules fields (#1795)
