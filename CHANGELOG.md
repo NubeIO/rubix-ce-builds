@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.0.0-rc.7](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.7) (2024-04-23)
+
+- Bulk actions improvements & features (#1813)
+
 ## [v1.0.0-rc.6](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.6) (2024-04-18)
 
 - Fix: cleanup plugins in download directory (#1818)
