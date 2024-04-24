@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.0.0-rc.8](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.8) (2024-04-24)
+
+- Display version in RCE (#1821)
+
 ## [v1.0.0-rc.7](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.7) (2024-04-23)
 
 - Bulk actions improvements & features (#1813)
