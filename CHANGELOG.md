@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## [v1.0.0-rc.9](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.9) (2024-05-16)
+
+- Fix + create new location sometimes not showing up (#1854)
+- Fix host creation from sidebar doesn't configure well (#1849)
+- Small change for showing invalid datetime
+- Add State, UpdatedAt fields & additional sorters in tables (#1844)
+- Sort by rubix os version in host page (#1851)
+- Remove unnecessary css styling causing issue with dashed variant antd button (#1850)
+- Set boolean default and undefined output value to null (#1843)
+- Increase version selector width and sort the versions (#1842)
+- Fix: null pointer exception (#1827)
+- Update/modbus baud rate override v1 (#1812)
+- Added module enable after module installation (#1822)
+
 ## [v1.0.0-rc.8](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.8) (2024-04-24)
 
 - Display version in RCE (#1821)
