@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [v1.0.0](https://github.com/NubeIO/rubix-ce/tree/v1.0.0) (2024-05-28)
+
+- fixed point create form init issue (#1879)
+- Update/limit history fetch size v1 (#1877)
+- fixed dynamic output pin issue (#1881)
+- Fix the issue with using new json schema (#1874)
+- Show yellowish background for table items of networks/devices/points if disabled/fault (#1880)
+- updated bacnet points table (#1875)
+- updated bacnet point discovery table styles (#1865)
+- fixed entity import mismatch warning messaging (#1870)
+- Changes to identify and implement json-schema-form type object (#1869)
+- fix deleting all hosts is not clearing up the host list (#1859)
+
 ## [v1.0.0-rc.9](https://github.com/NubeIO/rubix-ce/tree/v1.0.0-rc.9) (2024-05-16)
 
 - Fix + create new location sometimes not showing up (#1854)
