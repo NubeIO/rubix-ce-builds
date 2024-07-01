@@ -1,5 +1,49 @@
 # CHANGELOG
 
+## [v1.0.1](https://github.com/NubeIO/rubix-ce/tree/v1.0.1) (2024-07-01)
+
+- A public release to include all v1.0.1 release candidates
+
+## [v1.0.1-rc.6](https://github.com/NubeIO/rubix-ce/tree/v1.0.1-rc.6) (2024-06-25)
+
+- Fix bad performance on supervisor menu items with large number of host devices (#1930)
+- Persist points history options state (#1921)
+- Fix point discovery table being overflow & being cut of on small window width (#1926)
+- Merge pull request #1929 from NubeIO/1927-bug-issue-switching-supervisors-from-table
+- fix issue with encoded uri with spaces in connection name
+- set selected supervisor key based un current connection UUID and name, and select that superviosr in the sidebar
+
+## [v1.0.1-rc.5](https://github.com/NubeIO/rubix-ce/tree/v1.0.1-rc.5) (2024-06-20)
+
+- sanitize bulk add points (#1925)
+- fix auto-refresh resetting the point history graph plot (#1920)
+- Fix create new location button in tools menu (#1919)
+- Update/upgrade/replace npm packages that were having issues (#1912)
+
+## [v1.0.1-rc.4](https://github.com/NubeIO/rubix-ce/tree/v1.0.1-rc.4) (2024-06-14)
+
+- show warning for excluded characters in point name when creating a point, sanitize point name before sending to backend (#1915)
+- Import/duplicate/template etc need to clear certain columns before creating flow items (#1910)
+
+## [v1.0.1-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.0.1-rc.3) (2024-06-06)
+
+- Remove filter causing system points to not show on service history (#1906)
+- Remove a effect to check if the device is pingable or not (#1907)
+- Auto refresh network and device (#1908)
+
+## [v1.0.1-rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.0.1-rc.2) (2024-06-04)
+
+- Update unit init display to show select (#1903)
+- Fix auto refresh issues (#1898)
+
+## [v1.0.1-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.0.1-rc.1) (2024-06-03)
+
+- Fix on create network, too many APIs being called (#1885)
+- Timestamps improvements in the state column for network/dev/point (#1892)
+- Update time format for status time in tooltip (#1897)
+- Fix can't select same module if we move back to first step when adding a network (#1899)
+- Added override to points unit field (#1895)
+
 ## [v1.0.0](https://github.com/NubeIO/rubix-ce/tree/v1.0.0) (2024-05-28)
 
 - fixed point create form init issue (#1879)
