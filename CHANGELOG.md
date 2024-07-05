@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v1.0.2](https://github.com/NubeIO/rubix-ce/tree/v1.0.2) (2024-07-05)
+
+- Fix: point creation issue (#1947)
+- Fix: Null pointer exception on Restart ROS from submenu (#1949)
+
 ## [v1.0.1](https://github.com/NubeIO/rubix-ce/tree/v1.0.1) (2024-07-01)
 
 - A public release to include all v1.0.1 release candidates
