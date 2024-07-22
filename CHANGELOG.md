@@ -1,5 +1,39 @@
 # CHANGELOG
 
+## [v1.1.0](https://github.com/NubeIO/rubix-ce/tree/v1.1.0) (2024-07-18)
+
+- Add reboot device in host page context menu (#1973)
+
+## [v1.1.0-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.1.0-rc.3) (2024-07-16)
+
+- Feature add a reboot option to the hosts page (#1968)
+- Add Disconnected Since column in host table (#1967)
+
+## [v1.1.0-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.1.0-rc.3) (2024-07-14)
+
+- [Feature] Restart services job (#1963)
+- Make templates work without valid token (#1965)
+- Add an option for restart on config change (#1948)
+- Bulk install/uninstall modules (#1960)
+
+## [v1.1.0-rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.1.0-rc.2) (2024-07-12)
+
+- Update/Improve breadcrumb trail (#1922)
+- Improvement on network device points navigation sidebar (#1940)
+- Make host selections available in bulk actions modals (#1943)
+- When adding a new node insert it at the end of the node list (#1953)
+- Fix issue with parent child node link not appearing on importing (#1954)
+- Merge pull request #1956 from NubeIO/1883-hide-logs
+- [BugFix] Fix full content-menu not appearing (#1957)
+- Add default fallback release (#1962)
+
+## [v1.1.0-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.1.0-rc.1) (2024-06-25)
+
+- Core metrics v1 (#1776)
+- Alert conditions v1 (#1767)
+- Add modbus commissioning tool (#1810)
+- Improvement: Issue templates (#1911)
+
 ## [v1.0.2](https://github.com/NubeIO/rubix-ce/tree/v1.0.2) (2024-07-05)
 
 - Fix: point creation issue (#1947)
@@ -27,7 +61,8 @@
 
 ## [v1.0.1-rc.4](https://github.com/NubeIO/rubix-ce/tree/v1.0.1-rc.4) (2024-06-14)
 
-- show warning for excluded characters in point name when creating a point, sanitize point name before sending to backend (#1915)
+- show warning for excluded characters in point name when creating a point, sanitize point name before sending to
+  backend (#1915)
 - Import/duplicate/template etc need to clear certain columns before creating flow items (#1910)
 
 ## [v1.0.1-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.0.1-rc.3) (2024-06-06)
