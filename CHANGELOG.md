@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v1.1.1](https://github.com/NubeIO/rubix-ce/tree/v1.1.1) (2024-07-31)
+
+- Select a default supervisor when the current selected supervisor has been disabled (#1982)
+- Fix: running services application started value (#1986)
+- Remove mosquitto persistence file (#1983)
+- await node value fetch before setting refresh timeout (#1980)
+- Fix: path name values after doing create/delete mapping on wires (#1992)
+- Fix: issue with sidebar view items' context menu links (#1994)
+
 ## [v1.1.0](https://github.com/NubeIO/rubix-ce/tree/v1.1.0) (2024-07-18)
 
 - Add reboot device in host page context menu (#1973)
