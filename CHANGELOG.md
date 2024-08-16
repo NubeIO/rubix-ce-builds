@@ -1,5 +1,20 @@
 # CHANGELOG
 
+## [v1.1.2](https://github.com/NubeIO/rubix-ce/tree/v1.1.2) (2024-08-16)
+
+- Make the scrollbar more visible in virtual tables (#2004)
+
+## [v1.1.2-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.1.2-rc.1) (2024-08-13)
+
+- Update package-lock.json (#1996)
+- Update package-lock.json for reactflow fix (#2000)
+- Fix: FIFO /tmp/dlt cannot be open (#2002)
+- Fix select column misalign in table (#1998)
+- Add error boundary to our app (#2001)
+- Select and load supervisor on create new supervisor (#2006)
+- Show config value as --encrypted-- if its property is secret (#2007)
+- Fix download doesn't work in RCE built from CI (#2008)
+
 ## [v1.1.1](https://github.com/NubeIO/rubix-ce/tree/v1.1.1) (2024-07-31)
 
 - Select a default supervisor when the current selected supervisor has been disabled (#1982)
