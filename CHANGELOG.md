@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [v1.1.3](https://github.com/NubeIO/rubix-ce/tree/v1.1.3) (2024-08-30)
+
+- Show config property name default_key as encrypted (#2012)
+- Fix error on welcome screen (#2015)
+- Fix: Button and states are disabled in the supervisor creation process (#2017)
+
 ## [v1.1.2](https://github.com/NubeIO/rubix-ce/tree/v1.1.2) (2024-08-16)
 
 - Make the scrollbar more visible in virtual tables (#2004)
