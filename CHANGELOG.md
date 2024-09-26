@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.1.4](https://github.com/NubeIO/rubix-ce/tree/v1.1.4) (2024-09-26)
+
+- Refresh menu group on sidebar refresh; offline devices weren't turning into green (#2027)
+
 ## [v1.1.3](https://github.com/NubeIO/rubix-ce/tree/v1.1.3) (2024-08-30)
 
 - Show config property name default_key as encrypted (#2012)
