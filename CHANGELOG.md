@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.1.5](https://github.com/NubeIO/rubix-ce/tree/v1.1.5) (2024-10-04)
+
+- Temp fix for Silicon macOS app
+
 ## [v1.1.4](https://github.com/NubeIO/rubix-ce/tree/v1.1.4) (2024-09-26)
 
 - Refresh menu group on sidebar refresh; offline devices weren't turning into green (#2027)
