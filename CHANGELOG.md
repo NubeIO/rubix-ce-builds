@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.1.6](https://github.com/NubeIO/rubix-ce/tree/v1.1.6) (2024-10-17)
+
+- Remove transactions fetch in the alerts fetch (#2032)
+
 ## [v1.1.5](https://github.com/NubeIO/rubix-ce/tree/v1.1.5) (2024-10-04)
 
 - Temp fix for Silicon macOS app
