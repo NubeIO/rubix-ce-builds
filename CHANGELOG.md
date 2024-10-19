@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.1.7](https://github.com/NubeIO/rubix-ce/tree/v1.1.7) (2024-10-20)
+
+- Fix: issue in sidebar refresh (#2035)
+
 ## [v1.1.6](https://github.com/NubeIO/rubix-ce/tree/v1.1.6) (2024-10-17)
 
 - Remove transactions fetch in the alerts fetch (#2032)
