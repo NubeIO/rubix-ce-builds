@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [v1.1.8](https://github.com/NubeIO/rubix-ce/tree/v1.1.8) (2024-12-23)
+
+- Updated bulk editor tag API (#2047)
+- Fix nodes are not being deleted properly (#2049)
+- Upgrade wails & Go version (#2053)
+
 ## [v1.1.7](https://github.com/NubeIO/rubix-ce/tree/v1.1.7) (2024-10-20)
 
 - Fix: issue in sidebar refresh (#2035)
