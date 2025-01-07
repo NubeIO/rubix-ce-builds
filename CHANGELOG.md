@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [v1.1.9](https://github.com/NubeIO/rubix-ce/tree/v1.1.9) (2025-01-06)
+
+- Feature: GitHub token by GCP Secret Manager (#2057)
+- Feature: Encrypt GitHub token (#2060)
+- Fix different styling on group with extra bracket (#2056)
+
 ## [v1.1.8](https://github.com/NubeIO/rubix-ce/tree/v1.1.8) (2024-12-23)
 
 - Updated bulk editor tag API (#2047)
