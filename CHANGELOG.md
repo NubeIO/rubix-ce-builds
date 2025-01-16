@@ -1,5 +1,27 @@
 # CHANGELOG
 
+## [v1.2.0](https://github.com/NubeIO/rubix-ce/tree/v1.2.0) (2025-01-16)
+
+- A public release of 1.2.0
+- Show point name in histories line graph tooltip (#2065)
+
+## [v1.2.0-rc.4](https://github.com/NubeIO/rubix-ce/tree/v1.2.0-rc.4) (2025-01-09)
+
+- Render html in overflow table cell (#2063)
+
+## [v1.2.0-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.2.0-rc.3) (2024-12-18)
+
+- Add flow point write bacnet node schema (#2050)
+
+## [v1.2.0-rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.2.0-rc.2) (2024-11-27)
+
+- Hide alert ack timeout for status other than acknowledged (#2042)
+- Add ability to bulk update status with acknowledge timeout (#2046)
+
+## [v1.2.0-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.2.0-rc.1) (2024-10-31)
+
+- Added alert acknowledge timeout (#2040)
+
 ## [v1.1.9](https://github.com/NubeIO/rubix-ce/tree/v1.1.9) (2025-01-06)
 
 - Feature: GitHub token by GCP Secret Manager (#2057)
