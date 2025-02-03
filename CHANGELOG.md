@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v1.2.1](https://github.com/NubeIO/rubix-ce/tree/v1.2.1) (2025-02-03)
+
+- Set existing alert tags while updating alert condition (#2067)
+- Remove unused set to LocalStorage to fix edit rule (#2068)
+
 ## [v1.2.0](https://github.com/NubeIO/rubix-ce/tree/v1.2.0) (2025-01-16)
 
 - A public release of 1.2.0
