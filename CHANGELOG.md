@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v1.2.2](https://github.com/NubeIO/rubix-ce/tree/v1.2.2) (2025-02-24)
+
+- Fix: delete wires connections (#2074)
+- Remove starts with pnt filter for pointsUUIDs (#2076)
+
 ## [v1.2.1](https://github.com/NubeIO/rubix-ce/tree/v1.2.1) (2025-02-03)
 
 - Set existing alert tags while updating alert condition (#2067)
