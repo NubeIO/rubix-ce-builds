@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [v1.2.3](https://github.com/NubeIO/rubix-ce/tree/v1.2.3) (2025-04-16)
+
+- Fix schedules exception commit deletion (#2083)
+
+## [v1.2.3.rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.2.3-rc.2) (2025-04-10)
+
+- Remove GitHub token configuration in welcome page (#2080)
+- Show boolean values in table (#2081)
+
+## [v1.2.3.rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.2.3-rc.1) (2025-03-17)
+
+- Add missing falsy check in alert conditions column
+
 ## [v1.2.2](https://github.com/NubeIO/rubix-ce/tree/v1.2.2) (2025-02-24)
 
 - Fix: delete wires connections (#2074)
