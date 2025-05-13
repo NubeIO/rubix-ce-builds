@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.2.4](https://github.com/NubeIO/rubix-ce/tree/v1.2.4) (2025-05-13)
+
+- Enable bulk update for enable concurrency and concurrency limit (#2086)
+
 ## [v1.2.3](https://github.com/NubeIO/rubix-ce/tree/v1.2.3) (2025-04-16)
 
 - Fix schedules exception commit deletion (#2083)
