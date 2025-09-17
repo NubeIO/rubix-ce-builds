@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [v1.3.0](https://github.com/NubeIO/rubix-ce/tree/v1.3.0) (2025-09-17)
+
+- Add timezone in history graph (#2092)
+- Add openvpn configuration for edgedevice (#2093)
+- Improvement on App Description for LoRaModbusBrideApp (#2096)
+
 ## [v1.2.4](https://github.com/NubeIO/rubix-ce/tree/v1.2.4) (2025-05-13)
 
 - Enable bulk update for enable concurrency and concurrency limit (#2086)
