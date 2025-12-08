@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.3.2](https://github.com/NubeIO/rubix-ce/tree/v1.3.2) (2025-12-08)
+
+- Fix: OpenVPN tool (#2101)
+
 ## [v1.3.1](https://github.com/NubeIO/rubix-ce/tree/v1.3.1) (2025-10-10)
 
 - Sort navbar hosts alphabetically (#2099)
