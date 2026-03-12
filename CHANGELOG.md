@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.3.3](https://github.com/NubeIO/rubix-ce/tree/v1.3.3) (2026-03-12)
+
+- Support on ignore faulty data (#2105)
+
 ## [v1.3.2](https://github.com/NubeIO/rubix-ce/tree/v1.3.2) (2025-12-08)
 
 - Fix: OpenVPN tool (#2101)
