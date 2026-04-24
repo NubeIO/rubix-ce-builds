@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.3.5](https://github.com/NubeIO/rubix-ce/tree/v1.3.5) (2026-04-24)
+
+- Fix: JSON marshalling for Wires nodes
+
 ## [v1.3.4](https://github.com/NubeIO/rubix-ce/tree/v1.3.4) (2026-03-17)
 
 - Update Modbus Polling Stats
