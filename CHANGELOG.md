@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v1.3.6](https://github.com/NubeIO/rubix-ce/tree/v1.3.6) (2026-06-09)
+
+- Improvement/email paginations (#2111)
+- Fix: wires dynamic inputs (#2110)
+
 ## [v1.3.5](https://github.com/NubeIO/rubix-ce/tree/v1.3.5) (2026-04-24)
 
 - Fix: JSON marshalling for Wires nodes
