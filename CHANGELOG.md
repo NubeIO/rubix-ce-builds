@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## [v1.3.7-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.3.7-rc.1) (2026-07-28)
+
+- Speed Test page in CE (Settings → Speed Test) (#2113)
+- Prerequisite:
+   - Speed Test page requires **rubix-os >= v1.3.1-rc.1**
+   - Other features work with earlier Rubix OS versions
+
 ## [v1.3.6](https://github.com/NubeIO/rubix-ce/tree/v1.3.6) (2026-06-09)
 
 - Improvement/email paginations (#2111)
