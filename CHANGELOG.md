@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.3.7-rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.3.7-rc.2) (2026-09-07)
+
+- Enable UART device ping in LoRa device context menu (#2117)
+
 ## [v1.3.7-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.3.7-rc.1) (2026-07-28)
 
 - Speed Test page in CE (Settings → Speed Test) (#2113)
