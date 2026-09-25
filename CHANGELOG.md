@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v1.3.7](https://github.com/NubeIO/rubix-ce/tree/v1.3.7) (2026-09-25)
+
+- A public release of 1.3.7
+- Upgrade nubeio-rubix-lib-models-go to v1.15.11 (#2119)
+
 ## [v1.3.7-rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.3.7-rc.2) (2026-09-07)
 
 - Enable UART device ping in LoRa device context menu (#2117)
