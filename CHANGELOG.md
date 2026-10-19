@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.4.0-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.1) (2026-10-19)
+
+- Fix: slow sidebar and navigation with large supervisors (#2121)
+
 ## [v1.3.7](https://github.com/NubeIO/rubix-ce/tree/v1.3.7) (2026-09-25)
 
 - A public release of 1.3.7
