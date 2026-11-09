@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [v1.4.0-rc.4](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.4) (2026-11-09)
+
+- Set app version in macOS Silicon release build (#2128)
+- Fix: ship macOS Silicon release as an app bundle (#2130)
+- Write app logs to ~/rubix/logs with rotation (#2129)
+
 ## [v1.4.0-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.3) (2026-11-09)
 
 - Add bulk tags/meta tags for hosts and save both with one button (#2125)
