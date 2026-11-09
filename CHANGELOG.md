@@ -5,6 +5,7 @@
 - Set app version in macOS Silicon release build (#2128)
 - Fix: ship macOS Silicon release as an app bundle (#2130)
 - Write app logs to ~/rubix/logs with rotation (#2129)
+- Fix: macOS release app shown as damaged (#2132)
 
 ## [v1.4.0-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.3) (2026-11-09)
 
