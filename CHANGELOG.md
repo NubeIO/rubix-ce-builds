@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v1.4.0-rc.3](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.3) (2026-11-09)
+
+- Add bulk tags/meta tags for hosts and save both with one button (#2125)
+- Fix: disable macOS autocorrect and autocapitalize in inputs (#2126)
+
 ## [v1.4.0-rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.2) (2026-11-08)
 
 - Add host meta tags (#2123)
