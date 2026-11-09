@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.4.0-rc.2](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.2) (2026-11-08)
+
+- Add host meta tags (#2123)
+
 ## [v1.4.0-rc.1](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.1) (2026-10-19)
 
 - Fix: slow sidebar and navigation with large supervisors (#2121)
