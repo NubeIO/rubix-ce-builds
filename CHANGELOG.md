@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v1.4.0-rc.5](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.5) (2026-11-10)
+
+- Fix: create OpenVPN client.conf if it doesn't exist (#2134)
+- Hosts status: refresh checks status live, with a spinner (#2135)
+
 ## [v1.4.0-rc.4](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.4) (2026-11-09)
 
 - Set app version in macOS Silicon release build (#2128)
