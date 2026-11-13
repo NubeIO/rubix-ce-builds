@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [v1.4.0-rc.6](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.6) (2026-11-13)
+
+- Bulk installs: no leftover module versions, rolling concurrency, faster ping (#2137)
+- Sidebar search, and a faster first load (#2138)
+
 ## [v1.4.0-rc.5](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.5) (2026-11-10)
 
 - Fix: create OpenVPN client.conf if it doesn't exist (#2134)
