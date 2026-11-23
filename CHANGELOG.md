@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [v1.4.0-rc.7](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.7) (2026-11-23)
+
+- Configure OpenVPN in LAN through Rubix OS, with OpenVPN only tokens (#2140)
+- Prerequisites:
+  - rubix-os >= v1.4.0-rc.6
+
 ## [v1.4.0-rc.6](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.6) (2026-11-13)
 
 - Bulk installs: no leftover module versions, rolling concurrency, faster ping (#2137)
