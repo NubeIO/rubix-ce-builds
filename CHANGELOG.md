@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [v1.4.0-rc.8](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.8) (2026-11-26)
+
+- Fix points pallet bulk add ignoring per-point Write switch (#2144)
+- Point history: fit chart axis to data, one-click range picker (#2145)
+- Sidebar icons for locations, groups, hosts, networks and sections (#2150)
+- Consistent search inputs: icon, clear, clear placeholders (#2151)
+- Sort, filter and bulk download/delete device backups (#2146)
+- Add Install Rubix OS step to host wizard (#2147)
+- Support binary BACnet mapping and link type choice in Link Builder (#2148)
+- Create and manage scoped API tokens (#2149)
+- Prerequisites:
+  - rubix-os >= v1.4.0-rc.7
+
 ## [v1.4.0-rc.7](https://github.com/NubeIO/rubix-ce/tree/v1.4.0-rc.7) (2026-11-23)
 
 - Configure OpenVPN in LAN through Rubix OS, with OpenVPN only tokens (#2140)
